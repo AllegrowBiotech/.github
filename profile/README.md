@@ -1,4 +1,4 @@
-![allegrow-logo.png]([URL or file path](https://www.allegrowbiotech.com))
+![allegrow-logo.png](https://www.allegrowbiotech.com)
 # Allegrow Biotech
 Welcome to the official GitHub organization of Allegrow Biotech! We are dedicated to advancing immune cell activation and expansion through our innovative AimGel artificial cell technology. 
 ## AimGel Technology
